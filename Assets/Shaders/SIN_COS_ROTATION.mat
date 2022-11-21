@@ -10,7 +10,7 @@ Material:
   m_Name: SIN_COS_ROTATION
   m_Shader: {fileID: 4800000, guid: b9b555688829b4c44b62108c658d453c, type: 3}
   m_ValidKeywords:
-  - _ROTATION_ROTATIONZ
+  - _ROTATION_ROTATIONX
   m_InvalidKeywords:
   - _ROTATIONTYPE_ROTATIONZ
   m_LightmapFlags: 4
@@ -28,7 +28,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Rotation: 2
+    - _Rotation: 0
     - _RotationType: 2
     - _Speed: 3
     m_Colors: []
